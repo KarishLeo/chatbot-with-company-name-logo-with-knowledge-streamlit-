@@ -6,8 +6,7 @@ COMPANY_LOGO_FILE: str = "resources/icons/company_logo.png"
 # Related topics to your domain
 RELATED_TOPICS: str = 'Global warming'
 
-# OLLAMA_API_URL: str = "http://localhost:11434/api/generate"
-OLLAMA_API_URL: str = "http://192.168.1.200:11434/api/generate"
+OLLAMA_API_URL: str = "http://localhost:11434/api/generate"
 
 # Data path
 DATA_PATH: str = 'resources/data'

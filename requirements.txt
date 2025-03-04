@@ -1,0 +1,17 @@
+langchain
+ctransformers
+pypdf
+langchain-community
+transformers
+sentence-transformers
+tqdm
+accelerate
+chainlit
+unidecode
+faiss-cpu
+huggingface_hub
+langchain-huggingface
+pypdfium2
+pydantic==2.9.2
+langchain_ollama
+streamlit

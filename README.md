@@ -1,7 +1,7 @@
 # Chatbot Streamlit with Company Name and Logo
 
 ## Description
-This is a chatbot application hosted using Streamlit. It showcases the company name and logo, similar to the ChatGPT interface. Users can add their company catalog (in PDF or text format) to provide information about their products and services. The chatbot responds only with information related to the company’s offerings.
+This is a chatbot application hosted using Streamlit. It is fully customizable. You can change the company name and logo. So, you can showcase the company name and logo, similar to the ChatGPT interface. Users can add their company catalog (in PDF or text format) to provide information about their products and services. The chatbot responds only with information related to the company’s offerings.
 
 ## Features
 - **Streamlit Interface:** Simple and intuitive UI for interacting with the chatbot.
